@@ -13,7 +13,7 @@ brew install --cask react-native-debugger
 
 # TODO: replace all mac settings config files
 
-# List of apps to dl: vscode, postman, xcode, android studio, DBeaver, mongodb compass
+# List of apps to dl: vscode, postman, xcode, android studio, DBeaver, mongodb compass, docker
 
 mkdir ~/dev
 cd dev
