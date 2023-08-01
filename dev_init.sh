@@ -22,7 +22,7 @@ cd dev
 
 github_username="thatsLegit";
 
-declare -a folders=("c" "hackerrank" "java" "javascript" "postman" "python" "react-native" "ruby" "stage-2020-oporctunite" "stage-2021-razorfish" "swift" "traversy-media-courses");
+declare -a folders=("c" "hackerrank" "java" "javascript" "postman" "python" "rn" "ruby" "stage-2020-oporctunite" "stage-2021-razorfish" "swift" "traversy-media-courses");
 
 declare -a c=("c_progress_bar" "c-libs" "c-chess-engine" "data-structures-c" "learning-c" "sqlite-clone");
 declare -a java=("DecisionTree" "HomeShop" "learning-java" "lottery" "MyMenu-IV" "PaellaAPI" "PayDay" "PrgTournament");
